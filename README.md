@@ -16,3 +16,4 @@ To uncover key insights that will help drive the company's growth, the analysis 
 The project deliverable with all SQL query table outputs can be downloaded [here](https://github.com/pjmaninang/Bike-Sales-SQL-Analysis-Project/blob/main/Project%20Deliverable.xlsx)
 
 
+
