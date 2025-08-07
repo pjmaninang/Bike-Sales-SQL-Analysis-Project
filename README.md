@@ -37,7 +37,10 @@ The company's database structure consists of three tables: dim_customers(gold), 
 
 ### Sales Trends
 
-- 
+- 2013 saw a major surge in performance, with monthly revenue consistently over $1M and peaking at $1.87M in December
+- Order volume increased 10x compared to 2011–2012, indicating strong market expansion and operational scaling
+- July historically shows a notable revenue dip with -19% in 2011, -19.9% in 2012, -16.5% in 2013
+- December is reliably strong each year, with positive growth over November and among the highest monthly revenues
 
 ### Customer and Regional Revenue
 
