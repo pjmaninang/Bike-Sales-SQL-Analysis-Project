@@ -1,21 +1,7 @@
-# (Heading 1)
-##(Heading 2)
-###(Heading 3)
+#Bike Sales & Product Performance Analysis
 
-##How to insert a link
-- [Downloadhere](insert link here)
+##Project Overview
 
-##How to include SQL Code 
-```sql
-select *
-from
-  bike_sales;
-```
+This synthetic Bike company, with operations in both North America and Europe, is wanting to evaluate its overall performance from 2010 to 2014. Their data is focused on its sales order information, product offerings and costs, and customer profiles. 
 
-##how to do table of contents
-
-- [Project Overview](#heading-1)
-  - make sure that any spaces when referencing the heading is replaced by a hyphen
-
-##How to add a line
-- add three hyphens (---)
+This project thoroughly analyzes their company sales database to uncover critical insights that will help to grow 
