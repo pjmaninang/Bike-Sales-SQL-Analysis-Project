@@ -16,3 +16,6 @@ from
 
 - [Project Overview](#heading-1)
   - make sure that any spaces when referencing the heading is replaced by a hyphen
+
+##How to add a line
+- add three hyphens (---)
