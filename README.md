@@ -1,7 +1,16 @@
-#Bike Sales & Product Performance Analysis
+# Bike Sales & Product Performance Analysis
 
-##Project Overview
+## Project Overview
 
 This synthetic Bike company, with operations in both North America and Europe, is wanting to evaluate its overall performance from 2010 to 2014. Their data is focused on its sales order information, product offerings and costs, and customer profiles. 
 
-This project thoroughly analyzes their company sales database to uncover critical insights that will help to grow 
+This project thoroughly analyzes their company sales database to uncover critical insights that will help to increase the company's sales and profitability. 
+
+To uncover key insights that will help drive the company's growth, the analysis of their SQL database were focused on these core objectives:
+
+  - Understanding buying patterns by different customer demographic and regional information
+  - Identifying top-performing products, product categories, and product lines
+  - Analyzing sales and profitability trends over time
+  - Measuring overall profitability throughout the given sales data
+
+The project deliverable with all SQL query table outputs can be downloaded here
