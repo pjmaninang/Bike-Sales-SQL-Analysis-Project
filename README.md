@@ -15,4 +15,4 @@ from
 ##how to do table of contents
 
 - [Project Overview](#heading-1)
--   make sure that any spaces when referencing the heading is replaced by a hyphen
+  - make sure that any spaces when referencing the heading is replaced by a hyphen
