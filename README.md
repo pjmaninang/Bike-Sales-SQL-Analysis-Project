@@ -13,4 +13,6 @@ To uncover key insights that will help drive the company's growth, the analysis 
   - Analyzing sales and profitability trends over time
   - Measuring overall profitability throughout the given sales data
 
-The project deliverable with all SQL query table outputs can be downloaded here
+The project deliverable with all SQL query table outputs can be downloaded [here](https://github.com/pjmaninang/Bike-Sales-SQL-Analysis-Project/blob/main/Project%20Deliverable.xlsx)
+
+
