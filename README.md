@@ -1,3 +1,4 @@
+![Bike Sales Project Banner](https://github.com/pjmaninang/Bike-Sales-SQL-Analysis-Project/blob/main/biking.jpg)
 # Bike Sales & Product Performance Analysis
 
 ## Project Overview
