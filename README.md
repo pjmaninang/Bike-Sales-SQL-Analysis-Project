@@ -14,6 +14,8 @@ To uncover key insights that will help drive the company's growth, the analysis 
   - Analyzing sales and profitability trends over time
   - Measuring overall profitability throughout the given sales data
 
+The original dataset can be found and downloaded [here](https://github.com/DataWithBaraa/sql-data-analytics-project)
+
 The project deliverable with all SQL query table outputs can be downloaded [here](https://github.com/pjmaninang/Bike-Sales-SQL-Analysis-Project/blob/main/Project%20Deliverable.xlsx)
 
 All the SQL code can be viewed and downloaded [here](https://github.com/pjmaninang/Bike-Sales-SQL-Analysis-Project/blob/main/BikeSales%20SQL%20Analysis.sql)
