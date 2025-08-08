@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This Bike company (synthetic), with operations in both North America and Europe, is wanting to evaluate its overall performance from sales data in 2010 to 2014. Their data is focused on its sales order information, product offerings and costs, and customer profiles. 
+This Bike company, with operations in both North America and Europe, is wanting to evaluate its overall performance from sales data in 2010 to 2014. Their data is focused on its sales order information, product offerings and costs, and customer profiles. 
 
 This project thoroughly analyzes their company sales database to uncover critical insights that will help to increase the company's sales and profitability. 
 
