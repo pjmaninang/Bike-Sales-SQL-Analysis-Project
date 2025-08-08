@@ -27,6 +27,8 @@ The company's database structure consists of three tables: dim_customers(gold), 
 
 ### Overview of Findings
 
+In 2013, revenue rebounded sharply with 179.77% YoY growth, lifting net profit to $6.76M and sustaining a healthy 41.37% margin. Profitability is anchored in Bikes, which contribute 96.46% of total sales and $11.1M in profit, while Accessories lead in margin at 62%—a strength that potentially highlights over-reliance on a single category. The U.S. and Australia remain core markets, generating over 62% of total revenue, while female customers—both married and single—slightly outpace male counterparts in revenue contribution. High-value Mountain-200 bikes drive top-line results despite modest unit volumes, whereas high-volume accessories deliver minimal revenue, positioning them primarily as traffic drivers rather than profit engines. To sustain growth and mitigate risk, diversifying revenue streams beyond Bikes while expanding in underpenetrated markets like the U.K., Germany, and France should be a strategic priority.
+
 ## Findings and Insights
 
 ### Profitability
@@ -61,9 +63,11 @@ The company's database structure consists of three tables: dim_customers(gold), 
 
 ## Recommendations
 
-
+- With 96% of revenue concentrated in Bikes, expand product development, marketing, and bundling strategies for Accessories and Clothing to reduce reliance on a single category while boosting high-margin segments
+- Maintain and strengthen market share in the U.S. and Australia (62% combined share) while targeting underpenetrated but high-potential regions like the U.K., Germany, and France with localized promotions and partnerships
+- Develop targeted campaigns or limited-time offers to counteract the recurring July slowdown and maintain momentum during historically weak months
 
 ## Limitations
-- Sales data in both of the years 2010 and 2014 are incomplete, which have contributed to lower sales figures, inflated net profit margins, and innacurate year-over-year growth percentages for their preceding and/or following years
-- Some of the order date data and the customer demographic data were null or blank values, and there is no reliable source of truth to fill in those blanks
+- Incomplete Sales Data for 2010 and 2014 – Sales records for these years are partial, which has likely resulted in understated revenue figures, inflated net profit margins, and distorted year-over-year growth rates for adjacent periods
+- Missing Order Date and Customer Demographic Information – Certain order dates and customer demographic fields contain null or blank values, with no authoritative source available to accurately supplement the missing data
 
